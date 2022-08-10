@@ -1,2 +1,2 @@
 # AutoTip
-Android app created with Kotlin to calculate tip 
+Android app created with Kotlin to calculate tips
